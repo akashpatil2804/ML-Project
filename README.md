@@ -30,3 +30,4 @@ Basic data cleaning
 
 Outcome  
 The EDA helps identify which factors most influence medical costs. For instance, smoking status and BMI have a significant effect on charges.
+Source : https://youtu.be/1L420xXpDTg?si=bH47ZdhmPbdFYLNi
